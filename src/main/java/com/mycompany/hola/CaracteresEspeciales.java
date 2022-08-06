@@ -16,6 +16,15 @@ String nombre = "Karla";
         System.out.println("Comilla simple: \'" + nombre + "\'");
         System.out.println("Comilla doble: \"" + nombre + "\"");
         
+        
+         
+          System.out.println("Saludos2");
+         System.out.print("adios2");
+         System.out.println("nos vemos2");
+         
+         System.out.println("Saludos4");
+         System.out.print("adios4");
+         System.out.println("nos vemos4");
          System.out.println("Saludos");
          System.out.print("adios");
          System.out.println("nos vemos");
