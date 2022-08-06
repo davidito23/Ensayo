@@ -21,5 +21,9 @@ String nombre = "Karla";
           System.out.println("Saludos2");
          System.out.print("adios2");
          System.out.println("nos vemos2");
+         
+         System.out.println("Saludos4");
+         System.out.print("adios4");
+         System.out.println("nos vemos4");
     }
 }
