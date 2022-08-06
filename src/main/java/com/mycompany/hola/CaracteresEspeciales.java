@@ -19,5 +19,9 @@ String nombre = "Karla";
          System.out.println("Saludos");
          System.out.print("adios");
          System.out.println("nos vemos");
+         
+         System.out.println("Saludos3");
+         System.out.print("adios3");
+         System.out.println("nos vemos3");
     }
 }
